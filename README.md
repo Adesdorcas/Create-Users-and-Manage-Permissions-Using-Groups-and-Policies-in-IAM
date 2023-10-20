@@ -1,7 +1,7 @@
 <h1>Create Users and Manage Permissions Using Groups and Policies in IAM</h1>
 
 <h2>Description</h2>
-millad foods has hired me as a security engineer for his web app that allows customers to order food online. He's hired four new employees for the development team needs help giving this team the proper access permissions. In order to provide access and ensure the proper security measures are in place, I will use AWS Identity and Access Management (IAM) to group users and assign permissions for the developer group using policies.<br />
+Millad Delites has hired me as a security engineer for his web app that allows customers to order food online. He's hired four new employees for the development team needs help giving this team the proper access permissions. In order to provide access and ensure the proper security measures are in place, I will use AWS Identity and Access Management (IAM) to group users and assign permissions for the developer group using policies.<br />
 
 
 <h2>Environments Used </h2>
